@@ -8,4 +8,4 @@ patches:
   patch: |-
     - op: replace
       path: /spec/template/spec/containers/0/image
-      value: 014105591387.dkr.ecr.us-east-1.amazonaws.com/multienv-vote-feature-one:8af375e3
+      value: 014105591387.dkr.ecr.us-east-1.amazonaws.com/multienv-vote-master:v1.0.2
